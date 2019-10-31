@@ -1,5 +1,4 @@
-# Projeto Mapa do Bairro
-
+# Neighbourhood Map Project
 ## About
 This single-page application features a filterable list and a highlighted map of the six main spots in Reading, UK.
 
